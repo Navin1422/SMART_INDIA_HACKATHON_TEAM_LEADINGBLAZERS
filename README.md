@@ -1,0 +1,1 @@
+A smart, stigma-free, and culturally adaptive digital mental health platform designed for students in higher education. Built for especially students , this project aims to address rising challenges like stress, anxiety, depression, and academic burnout by providing a confidential, accessible, and AI-assisted support with Good community.
